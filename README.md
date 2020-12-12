@@ -144,7 +144,7 @@ Here your user details to change/delete your account things\
 
 [Postman](https://www.postman.com/) To check the backend works well.
 
-* [Adobe XD](https://www.adobe.com/es/products/xd.html)
+[Adobe XD](https://www.adobe.com/es/products/xd.html)
 
 Readme.md template by [Villanuevand](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
 
