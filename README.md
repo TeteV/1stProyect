@@ -109,7 +109,7 @@ A room only can book to one User
 ### Use Case
 ![Image text](https://github.com/TeteV/1stProyect/blob/master/img/CassoUso.jfif)
 
-A non Reg Person can only see the available rooms.
+A non Reg Person can only see the available rooms.\
 A registered person can see available rooms and book it.
 
 ## Appearance
